@@ -1,0 +1,42 @@
+/BASICOS/
+doctype
+html 
+head
+    estilos
+    metadatos 
+    titulo
+body
+
+/DE TEXTOS O FORMATO/ 
+p - parrafo 
+h1 - h6 - para titulos 
+strong - negritas 
+b - negritas
+spam - Estilos o elemento en particular
+em - cursivas 
+i - solo decorativa 
+br - salto de linea 
+hr - linea horizontal 
+
+/ENLACES O MULTIMEDIA/ 
+a con su ref
+video 
+imgs
+
+
+/CONTENEDORES/
+section
+article
+aside 
+div - Contenedor o un bloque de informacion
+
+
+/LISTAS/ 
+ul - listas
+ol - ordenada numeros
+il - items
+
+
+/FORMULARIOS/ 
+form
+input
